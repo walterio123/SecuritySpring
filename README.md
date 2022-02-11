@@ -46,7 +46,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [IntelliJ IDEA](www.jetbrains.com) - El mejor editor...
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [MySQL](https://www.mysql.com) - Usado para base de datos...
-
+* [JWT] (https://jwt.io/) - Usado para prueba de tokens(verificacion de usuario,roles,etc)
 
 
 
